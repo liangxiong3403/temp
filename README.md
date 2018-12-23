@@ -1,0 +1,1 @@
+# 用于SpringCloud配置服务器使用
